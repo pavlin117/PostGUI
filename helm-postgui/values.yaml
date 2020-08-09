@@ -8,7 +8,7 @@ image:
   repository: pavlin117/postgui
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: v4
+  tag: latest
 
 imagePullSecrets: []
 nameOverride: ""
